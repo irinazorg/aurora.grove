@@ -1,0 +1,8 @@
+// переписанные переменные
+$theme-colors: (
+  "primary": #2d968c,
+  "secondary": #1f1f1f
+);
+
+//import bootstrap
+@import "../bootstrap/scss/bootstrap.scss"
